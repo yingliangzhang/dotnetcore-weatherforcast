@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeatherForecastStation.Repo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherForecastStation.Dto", "WeatherForecastStation.Dto\WeatherForecastStation.Dto.csproj", "{41A3F2DF-8A11-4ABF-84F1-725BC282C1D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherForecastStation.Service.Test", "WeatherForecastStation.Service.Test\WeatherForecastStation.Service.Test.csproj", "{95F0AA19-0A2A-4962-93CA-F6A808F64C40}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{41A3F2DF-8A11-4ABF-84F1-725BC282C1D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41A3F2DF-8A11-4ABF-84F1-725BC282C1D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41A3F2DF-8A11-4ABF-84F1-725BC282C1D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95F0AA19-0A2A-4962-93CA-F6A808F64C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95F0AA19-0A2A-4962-93CA-F6A808F64C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95F0AA19-0A2A-4962-93CA-F6A808F64C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95F0AA19-0A2A-4962-93CA-F6A808F64C40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
