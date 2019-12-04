@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeatherForecastStation.Mode
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeatherForecastStation.Repository", "WeatherForecastStation.Repository\WeatherForecastStation.Repository.csproj", "{5BD52E3C-F5B6-4139-8D94-CA0F8B87304B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherForecastStation.Dto", "WeatherForecastStation.Dto\WeatherForecastStation.Dto.csproj", "{41A3F2DF-8A11-4ABF-84F1-725BC282C1D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeatherForecastStation.Dto", "WeatherForecastStation.Dto\WeatherForecastStation.Dto.csproj", "{41A3F2DF-8A11-4ABF-84F1-725BC282C1D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherForecastStation.Service.Test", "WeatherForecastStation.Service.Test\WeatherForecastStation.Service.Test.csproj", "{95F0AA19-0A2A-4962-93CA-F6A808F64C40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeatherForecastStation.Service.Test", "WeatherForecastStation.Service.Test\WeatherForecastStation.Service.Test.csproj", "{95F0AA19-0A2A-4962-93CA-F6A808F64C40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherForecastStation.Web.Test", "WeatherForecastStation.Web.Test\WeatherForecastStation.Web.Test.csproj", "{AB8E3BB2-E9BF-4B25-B546-FECCA6EC455A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{95F0AA19-0A2A-4962-93CA-F6A808F64C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95F0AA19-0A2A-4962-93CA-F6A808F64C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95F0AA19-0A2A-4962-93CA-F6A808F64C40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB8E3BB2-E9BF-4B25-B546-FECCA6EC455A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB8E3BB2-E9BF-4B25-B546-FECCA6EC455A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB8E3BB2-E9BF-4B25-B546-FECCA6EC455A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB8E3BB2-E9BF-4B25-B546-FECCA6EC455A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
